@@ -21,7 +21,7 @@
 | 기본 문제✔ | 1267 | [핸드폰 요금](https://www.acmicpc.net/problem/1267) | ⬜ | ⬜ |
 | 기본 문제✔ | 10804 | [카드 역배치](https://www.acmicpc.net/problem/10804) | ⬜ | ⬜ |
 | 기본 문제✔ | 15552 | [빠른 A+B](https://www.acmicpc.net/problem/15552) | ⬜ | ⬜ |
-| 기본 문제✔ | 2438 | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) | ⬜ | ⬜ |
+| 기본 문제✔ | 2438 | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) | ✅ | 🟢 |
 | 기본 문제✔ | 2439 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | ⬜ | ⬜ |
 | 기본 문제✔ | 2440 | [별 찍기 - 3](https://www.acmicpc.net/problem/2440) | ⬜ | ⬜ |
 | 기본 문제✔ | 2441 | [별 찍기 - 4](https://www.acmicpc.net/problem/2441) | ⬜ | ⬜ |
