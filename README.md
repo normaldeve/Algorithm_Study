@@ -20,13 +20,13 @@
   <tr>
   	<td align="center">
       <img src="https://avatars.githubusercontent.com/gaplaza" width="100" height="100" style="object-fit:cover;"/>
-      <br/>junwoo<br/>
+      <br/>박기선/>ㅂㅂ/
       <a href="https://github.com/gaplaza">@gaplaza</a>
     </td>
      <td align="center">
       <img src="https://avatars.githubusercontent.com/Yountaewoo" width="100" height="100" style="object-fit:cover;"/>
       <br/>윤태우<br/>
-      <a href="https://github.com/Jooahyeon">@Jooahyeon</a>
+      <a href="https://github.com/Yountaewoo">@Jooahyeon</a>
     </td>
     <td align="center">
       <img src="https://avatars.githubusercontent.com/normaldeve" width="100" height="100" style="object-fit:cover;"/>
